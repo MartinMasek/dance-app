@@ -1,0 +1,4 @@
+export const HOME_SCREEN = "HOME_SCREEN"
+export const TRAIN_OVERVIEW = "TRAIN_OVERVIEW"
+export const LIBRARY_SCREEN = "LIBRARY_SCREEN"
+export const MOVE_DETAIL = "MOVE_DETAIL"
